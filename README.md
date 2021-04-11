@@ -1,5 +1,5 @@
 # Sessions Controller Lab
-
+ 
 ## Objectives
 
 We're going to build a Rails app that handles sessions with a
